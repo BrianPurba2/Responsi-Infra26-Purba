@@ -5,3 +5,5 @@ Penyebab:
 -web2 salah memasukkan password database (wrongpassword).<br>
 -web3 salah mengarahkan folder context ke ./web33 (seharusnya ./web3) dan tidak masuk ke dalam network frontend.<br>
 -Volume di bagian bawah bernama database-data, sedangkan di service db memanggil db-data.<br>
+-nginx yang menggunakan backend diganti dengan web_server agar server bisa berjalan dengan normal<br>
+-Maaf jika tidak menyertakan dokumentasi karena laptop saya tidak sanggup banggg😭😭<br>
